@@ -1,7 +1,7 @@
 # Kotlin协程小练习
 
 
-### [点我预览代码](https://github1s.com/17396743/Kotlin_Thread_CorouTines)
+### [点我预览代码](https://github1s.com/17396743/Kotlin_Thread_CorouTines/blob/HEAD/app/src/main/java/com/example/myapplication/MainActivity.kt)
 
 效果图：
 
